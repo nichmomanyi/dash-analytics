@@ -1,2 +1,2 @@
-Visualization with Dash
+Bi analytics with Dash
 # dash-analytics
